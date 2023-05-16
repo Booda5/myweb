@@ -8,12 +8,13 @@ export const projects = [
     link: "https://incomparable-begonia-bd8694.netlify.app/",
   },
   {
-    title: "Fitness-Tracker",
-    subtitle: "EXPRESS.JS/NODE.JS/SQL/GIT",
+    title: "NetFlix+",
+    subtitle: "REACT/TIALWIND/FIREBASE/DB/API",
     description:
-      "I wanted users to be able to log in and build fitness routines, have control over the public/private nature of their routines, and be able to see which routines exist of a given activity.",
-    image: "/pro2.jpg",
-    link: "https://github.com/Samson343/FitnessTrackerBackend/tree/boda",
+      "Netflix clone with a Firebase back-end! Use the TMDB API for all of the data. Use Firebase Authentication to give login functionality. Able to store user specific data with a React front-end and a Firebase back-end. Use Firestore which is cloud storage with Firebase to save data.",
+    image: "/pro5.png",
+    link: "https://netflix-plus-b8cba.web.app",
+    
   },
   {
     title: "Online Shopping Store",
@@ -66,5 +67,7 @@ export const skills = [
   "Bcrypt",
   "Webpack",
   "Python",
-  "Sql"
+  "Sql",
+  "Tialwind",
+  "FireBase"
 ];

@@ -5,10 +5,10 @@ export default function About() {
     return (
         <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className=" title-font sm:text-3xl text-4xl mb-4 font-extraligh text-white ">
+        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-17 md:mb-0 items-center text-center mt-11 ">
+          <h1 className=" title-font sm:text-3xl text-4xl mb-8 font-extraligh text-white ">
             Hi, I'm Abdulla Harba.
-            <p className='text-green-400  uppercase sm:text-4xl text-5xl '>Front End Developer ..</p>
+            <p className='text-green-400  uppercase sm:text-4xl text-5xl  '>Front End Developer ..</p>
             
           </h1>
          
@@ -54,7 +54,7 @@ export default function About() {
             </a>
             
           </div>
-          <p className='text-lg leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto mr-80 mt-40 tracking-wide underline decoration-4'>I am that person who likes turning ideas into action, that’s a reason why i fell in love with software development where i can turn my imagination into code and code into action! </p>
+          <p className='text-lg leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto mr-80 mt-40 tracking-wide underline decoration-4 ml-0'>I am that person who likes turning ideas into action, that’s a reason why i fell in love with software development where i can turn my imagination into code and code into action! </p>
         </div>
         <div className=" lg:max-w-lg lg:w-full md:w-1/2 w-5/6 px-8">
           <img
